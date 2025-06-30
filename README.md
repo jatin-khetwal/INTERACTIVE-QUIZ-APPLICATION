@@ -40,4 +40,7 @@ JavaScript: To handle the logic, like showing questions, checking answers, calcu
 Purpose of the Project
 This project helps in learning the basics of web development. It teaches how to create interactive web pages using HTML, CSS, and JavaScript. It also improves problem-solving skills because you need to write code that checks answers and updates the score.
 
+**********************************************OUTPUT*******************************************************
+![Image](https://github.com/user-attachments/assets/2d6e2064-fcf7-489e-9dd1-32ee7bafff1c)
+
 
