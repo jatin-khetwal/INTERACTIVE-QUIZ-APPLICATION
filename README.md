@@ -10,7 +10,7 @@
 
 *DURATION* : 6 WEEKS
 
-*MENTOR* : NEELA SANTOSH
+*MENTOR* : NEELA SANTOSH 
 
 **** ABOUT PROJECT****
 The interactive quiz application is a fun and educational project built using frontend web development tools such as HTML, CSS, and JavaScript. This project aims to create a simple and user-friendly platform where users can answer questions and test their knowledge on different topics. The quiz app can be used by students, teachers, or anyone who wants to learn new things in an enjoyable way.
@@ -44,3 +44,5 @@ This project helps in learning the basics of web development. It teaches how to 
 ![Image](https://github.com/user-attachments/assets/2d6e2064-fcf7-489e-9dd1-32ee7bafff1c)
 
 
+REPO is refered 
+we are learning Cohorot from   chai aur code 
